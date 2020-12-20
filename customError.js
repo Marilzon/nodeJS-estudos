@@ -9,7 +9,7 @@ try {
   const name = 'Marilzon de Sousa';
 
   const myError = new CustomError({
-    message: 'Custom message on ustom error',
+    message: 'Custom message on custom error',
     data: {
       type: 'Server error'
     }
